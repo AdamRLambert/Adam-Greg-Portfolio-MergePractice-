@@ -1,3 +1,4 @@
+
 /* .major-navigation > ul a {
 	padding-top: 24px;
 	padding-bottom: 24px;
@@ -13,16 +14,6 @@
 .major-navigation:hover{
     background-color: blue;
 }
-
-/* .major-navigation li a:hover{
-    background-color: aquamarine;
-} */
-
-
-.contact{
-
-}
-
 
 
 .about a:hover{
@@ -44,5 +35,3 @@
 
 
 }
-
-
