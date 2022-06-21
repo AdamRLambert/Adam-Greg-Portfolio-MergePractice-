@@ -1,0 +1,48 @@
+/* .major-navigation > ul a {
+	padding-top: 24px;
+	padding-bottom: 24px;
+	padding-right: 24px;
+	border: 1px solid #000;
+	border-left: none;
+	background-color: #fff;
+	text-align: right;
+	text-decoration: none;
+	display: block;
+} */
+
+.major-navigation:hover{
+    background-color: blue;
+}
+
+/* .major-navigation li a:hover{
+    background-color: aquamarine;
+} */
+
+
+.contact{
+
+}
+
+
+
+.about a:hover{
+    background-color: blueviolet;
+
+}
+
+.port a:hover{
+    background-color: red;
+
+}
+
+
+
+
+@media (min-width: 576px) {
+
+
+
+
+}
+
+
